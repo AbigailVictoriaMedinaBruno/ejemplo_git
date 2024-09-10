@@ -1,0 +1,4 @@
+1- git clone repo
+2- git status
+3- git add . sigue todos los archivos
+4. git commit -m "agregue etc..." 
